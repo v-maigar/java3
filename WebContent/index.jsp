@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1><% out.println("Hello Azure3"); %></h1>
+<h1><% out.println("Hello Azure4"); %></h1>
 </body>
 </html>
